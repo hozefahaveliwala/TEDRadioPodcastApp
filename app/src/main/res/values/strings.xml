@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TEDHour</string>
+    <string name="action_settings">Settings</string>
+    <string name="PlayNow">Play Now</string>
+    <string name="Link">https://www.npr.org/rss/podcast.php?id=510298</string>
+
+</resources>
